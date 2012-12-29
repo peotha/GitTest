@@ -5,5 +5,9 @@ public class FirstClass {
 		
 		System.out.println("anyMethod");
 	}
+	
+	public void thirdMethod(){
+		
+	}
 
 }
