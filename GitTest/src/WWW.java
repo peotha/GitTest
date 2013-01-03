@@ -1,1 +1,1 @@
-class WWW{}
+class WWW{IIIII}
