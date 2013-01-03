@@ -1,1 +1,1 @@
-class WWW{ddddd}
+public class WWW{ddddd}
